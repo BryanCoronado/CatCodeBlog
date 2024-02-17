@@ -1,0 +1,54 @@
+---
+sidebar_position: 4
+---
+
+# SASS
+
+SASS (Syntactically Awesome Style Sheets) es una extensión de CSS que agrega características poderosas y una sintaxis más amigable para el desarrollo de estilos en aplicaciones web.
+
+## Introducción a SASS
+
+SASS es un preprocesador CSS que permite escribir estilos de una manera más modular y mantenible. Introduce conceptos como variables, anidamiento, mixins, funciones y más, que facilitan la creación y el mantenimiento de estilos complejos.
+
+## Características Principales de SASS
+
+Algunas de las características clave de SASS incluyen:
+
+- **Variables**: Permite definir variables para valores reutilizables, como colores, tamaños de fuente y márgenes.
+- **Anidamiento**: Facilita la escritura de estilos al anidar selectores dentro de otros, siguiendo la estructura HTML.
+- **Mixins**: Permite definir conjuntos de estilos reutilizables que pueden ser incluidos en múltiples selectores.
+- **Funciones**: Ofrece una amplia gama de funciones incorporadas y la capacidad de definir funciones personalizadas para manipular valores CSS.
+
+## Uso de SASS en Proyectos
+
+SASS se utiliza ampliamente en el desarrollo web y de aplicaciones, especialmente en proyectos grandes y complejos. Es compatible con la mayoría de los frameworks y herramientas de desarrollo front-end, como React, Angular y Vue.js.
+
+## Ejemplo de Uso de SASS
+
+A continuación, se muestra un ejemplo básico de cómo se vería un archivo SASS:
+
+```scss
+// Definición de variables
+$primary-color: #007bff;
+$secondary-color: #6c757d;
+
+// Estilos para el cuerpo de la página
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+// Estilos para los encabezados
+h1 {
+    color: $primary-color;
+    font-size: 24px;
+}
+
+// Estilos para los enlaces
+a {
+    color: $secondary-color;
+    text-decoration: none;
+    &:hover {
+        text-decoration: underline;
+    }
+}
