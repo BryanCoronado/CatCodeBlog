@@ -7,7 +7,7 @@
 
 ![Logo de Markdown](https://i.ibb.co/Yp0LwcB/Captura-de-pantalla-2024-02-18-121128.png)
 
-Demo : **https://bryancoronado.github.io/CatCodeBlog/
+ Demo : https://bryancoronado.github.io/CatCodeBlog/
 
 ### Instalacion
 
