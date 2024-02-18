@@ -1,8 +1,12 @@
-# Website
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+# Cat Code 
 
-### Installation
+¡Bienvenido a nuestro espacio dedicado al fascinante mundo del desarrollo web! Aquí encontrarás información detallada y actualizada sobre las tecnologías más relevantes tanto en el front end como en el back end, que están transformando la manera en que interactuamos con la web y construimos aplicaciones increíbles.
+
+![Imagen de Encabezado]([URL_de_la_imagen](https://i.ibb.co/Yp0LwcB/Captura-de-pantalla-2024-02-18-121128.png))
+
+
+### Instalacion
 
 ```
 $ yarn
@@ -24,7 +28,7 @@ $ yarn build
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-### Deployment
+### Despliegue
 
 Using SSH:
 
@@ -38,4 +42,5 @@ Not using SSH:
 $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+Si estás utilizando GitHub Pages para alojar tu sitio web, este comando es una forma conveniente de construir el sitio web y hacer push a la rama gh-pages
