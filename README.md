@@ -3,7 +3,7 @@
 
 ¡Bienvenido a nuestro espacio dedicado al fascinante mundo del desarrollo web! Aquí encontrarás información detallada y actualizada sobre las tecnologías más relevantes tanto en el front end como en el back end, que están transformando la manera en que interactuamos con la web y construimos aplicaciones increíbles.
 
-![Imagen de Encabezado]([URL_de_la_imagen](https://i.ibb.co/Yp0LwcB/Captura-de-pantalla-2024-02-18-121128.png))
+![Logo de Markdown](https://i.ibb.co/Yp0LwcB/Captura-de-pantalla-2024-02-18-121128.png)
 
 
 ### Instalacion
