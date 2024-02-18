@@ -81,60 +81,24 @@ const config = {
 
           //{to: '/blog', label: 'Deportes', position: 'left'},
           {
-            href: "https://youtube.com", //PONER LINK PARA GITHUB
+            href: "https://github.com/AdriALV2005/CatCodeBlog", //PONER LINK PARA GITHUB
             label: "GitHub",
             position: "right",
           },
         ],
       },
 
-      //pie de pagina
+
 
       footer: {
         style: "dark",
-        links: [
-          {
-            title: "Docs",
-            items: [
-              {
-                label: "HOLA",
-                to: "/docs/Introduccion",
-              },
-            ],
-          },
-          {
-            title: "Community",
-            items: [
-              {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
-              },
-              {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
-              },
-              {
-                label: "Twitter",
-                href: "https://twitter.com/docusaurus",
-              },
-            ],
-          },
-          {
-            title: "More",
-            items: [
-              {
-                label: "Blog",
-                to: "/blog",
-              },
-              {
-                label: "yhhy",
-                href: "https://github.com/facebook/docusaurus",
-              },
-            ],
-          },
-        ],
-        copyright: `LUPECOPYRIGHT © ${new Date().getFullYear()} LUPE ERES EL MEJOR GATO DEL MUNDO`,
-      },
+        links: [],
+        copyright: `LUPECOPYRIGHT © ${new Date().getFullYear()} <a href="https://github.com/BryanCoronado">Bryan Coronado</a> y <a href="https://github.com/AdriALV2005">Adribell Montes</a>`,
+    },
+    
+
+
+      
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
