@@ -91,9 +91,9 @@ const config = {
 
 
       footer: {
-        style: "dark",
+        style: "light",
         links: [],
-        copyright: `LUPECOPYRIGHT © ${new Date().getFullYear()} <a href="https://github.com/BryanCoronado">Bryan Coronado</a> y <a href="https://github.com/AdriALV2005">Adribell Montes</a>`,
+        copyright: `copyright © ${new Date().getFullYear()} <a href="https://github.com/BryanCoronado">Bryan Coronado</a> y <a href="https://github.com/AdriALV2005">Adribell Montes</a>`,
     },
     
 

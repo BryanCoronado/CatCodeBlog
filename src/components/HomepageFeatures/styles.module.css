@@ -12,17 +12,20 @@
 
 footer{
   border-radius: 350px 350px 0px 0px;
-  background-color: rgb(35, 55, 145) !important;
   width: 60%;
   margin: 0 auto;
-  
+ 
  
 }
 
-footer a {
-  color: rgb(163, 172, 179);
+footer a{
+  color: rgb(0, 0, 0);
   font-size: 18px;
   font-weight: 500;
+}
+footer a:hover {
+  color: rgb(161, 194, 202);
+  font-size: 19px;
 }
 
 
