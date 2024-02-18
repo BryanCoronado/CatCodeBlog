@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcat_code_blog=self.webpackChunkcat_code_blog||[]).push([[4731],{4955:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/CatCodeBlog/blog/tags/hola","allTagsPath":"/CatCodeBlog/blog/tags","count":1,"unlisted":false}')}}]);

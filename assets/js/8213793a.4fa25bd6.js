@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcat_code_blog=self.webpackChunkcat_code_blog||[]).push([[2277],{645:e=>{e.exports=JSON.parse('{"permalink":"/CatCodeBlog/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
