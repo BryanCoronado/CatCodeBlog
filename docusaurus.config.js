@@ -20,7 +20,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "AdriALV2005", // Usually your GitHub org/user name.
+  organizationName: "BryanCoronado", // Usually your GitHub org/user name.
   projectName: "CatCodeBlog", // Usually your repo name.
 
   onBrokenLinks: "throw",
@@ -30,8 +30,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: "en",
-    locales: ["en"],
+    defaultLocale: "es",
+    locales: ["es"],
   },
 
   presets: [
@@ -81,7 +81,7 @@ const config = {
 
           //{to: '/blog', label: 'Deportes', position: 'left'},
           {
-            href: "https://github.com/AdriALV2005/CatCodeBlog", //PONER LINK PARA GITHUB
+            href: "https://github.com/BryanCoronado/CatCodeBlog", //PONER LINK PARA GITHUB
             label: "GitHub",
             position: "right",
           },
