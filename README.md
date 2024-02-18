@@ -5,6 +5,8 @@
 
 ![Logo de Markdown](https://i.ibb.co/Yp0LwcB/Captura-de-pantalla-2024-02-18-121128.png)
 
+<img src="https://i.ibb.co/Yp0LwcB/Captura-de-pantalla-2024-02-18-121128.png" alt="Logo de Markdown" style="border-radius: 10px;" />
+
 
 ### Instalacion
 
