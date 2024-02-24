@@ -6,7 +6,7 @@ sidebar_position: 3
 
 Es un lenguaje de programación fundamental en el desarrollo web. Desde la manipulación dinámica del contenido hasta la creación de aplicaciones web interactivas, JavaScript impulsa gran parte de la experiencia en línea que disfrutamos hoy en día.
 
-## ¿Qué es JavaScript?
+## ¿Qué es JavaScript?? 
 
 JavaScript es un lenguaje de programación de alto nivel, interpretado por los navegadores web. Originalmente diseñado para agregar interactividad a las páginas web, JavaScript ahora es utilizado en una variedad de entornos, incluyendo servidores, aplicaciones de escritorio y dispositivos móviles.
 
